@@ -1,0 +1,6 @@
+HarvestTime
+Ripeness
+Size
+Size*Weight
+Weight
+acidity_times_softness

@@ -1,0 +1,17 @@
+Acidity
+Acidity^3
+HarvestTime
+HarvestTime*Acidity
+HarvestTime^3
+Ripeness
+Ripeness*Sweetness
+Ripeness^2
+Ripeness^3
+Size*Weight
+Size^3
+Softness
+Softness^3
+Sweetness
+Sweetness^3
+Weight^3
+acidity_times_softness
